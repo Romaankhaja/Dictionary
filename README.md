@@ -1,4 +1,4 @@
-#Dictionary
+
 This Python script implements a speaking dictionary using speech recognition and text-to-speech capabilities. It allows users to verbally request the meaning of a word, interactively confirming their input through spoken prompts.
 Features:
 Speech Recognition: Utilizes the speech_recognition library to recognize spoken commands and words.
